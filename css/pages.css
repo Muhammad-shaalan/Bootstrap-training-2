@@ -1,0 +1,108 @@
+.breadcrumb-holder{
+    background-color: #F5F5F5
+}
+
+.breadcrumb{
+    margin: 0
+}
+
+/*Start About*/
+
+.about .h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 68px;
+    letter-spacing: -5px
+}
+
+.about hr{width: 60%}
+
+.about p{
+    font-family: 'Droid Sans', sans-serif;
+    line-height: 1.8;
+    font-size: 21px
+}
+
+.about .img-thumbnail{
+    background-color: rgba(82, 78, 78, .05)
+}
+
+/*End About*/
+
+/*Start Features*/
+
+.about-features{
+   padding: 20px 0 70px;
+    margin-bottom: 30px
+}
+
+.about-features h3{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -2px
+}
+
+.about-features p{
+    font-family: 'Droid Sans', sans-serif;
+    line-height: 1.8;
+    font-size: 18px;
+    color: #888;
+    margin-bottom: 20px
+}
+
+/*End Fetures*/
+
+/*Start Ceo*/
+
+.ceo{
+    background-color: #EEE;
+    padding-top: 40px
+}
+
+.ceo .h1{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px
+}
+
+.ceo .lead{
+    margin-top: 25px;
+    font-family: 'Droid sans', sans-serif;
+    line-height: 1.8;
+    color: #555
+    
+}
+
+.ceo .btn{
+    background-color: #333;
+    border: #333;
+    margin-bottom: 10px
+}
+/*End Ceo*/
+
+/*Start Faq*/
+
+.faq h1{
+    font-size: 62px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px
+}
+
+.faq hr{
+    width: 70%
+}
+
+.faq .panel-heading{
+    padding: 20px 15px
+}
+
+.faq .panel-heading a:after{
+    font-family: 'glyphicons halflings';
+    content: "\e114";
+    float: right;
+    color: #444
+}
+
+.faq .panel-heading a.collapsed:after{
+    content: "\e080";
+    color: #999
+}
+
+/*End Faq*/
